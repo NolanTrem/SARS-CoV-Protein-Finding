@@ -43,6 +43,6 @@ ylim([-0.1 0.6])
 grid on;
 yticklabels({' ', ' ', 'SARS-CoV-2', 'SARS-TOR2', 'SARS-Frankfurt', 'SARS-AS', 'icSARS-C7-MA'})
 xlabel('Genome position');
-title('BsaI and BsmBI restriction sites in SARS-CoV viruses');
+title('BsaI and BsmBI restriction sites in ORF6 Protein for SARS-CoV viruses');
 legend('BsmBI', 'BSaI');
 hold off;
